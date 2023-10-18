@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Upload_apifront/meu-aplicativo/static/css/main.ff1a2c3c.css",
-    "main.js": "/Upload_apifront/meu-aplicativo/static/js/main.6528cfa3.js",
-    "static/media/Profile-arrow.svg": "/Upload_apifront/meu-aplicativo/static/media/Profile-arrow.1a55a1f3e8ea37ab8330b0df30bce3e6.svg",
-    "static/media/ProfileArea.svg": "/Upload_apifront/meu-aplicativo/static/media/ProfileArea.e4268596167868a0e75e2248d691ee2f.svg",
-    "index.html": "/Upload_apifront/meu-aplicativo/index.html",
-    "main.ff1a2c3c.css.map": "/Upload_apifront/meu-aplicativo/static/css/main.ff1a2c3c.css.map",
-    "main.6528cfa3.js.map": "/Upload_apifront/meu-aplicativo/static/js/main.6528cfa3.js.map"
+    "main.css": "/Upload_apifront/static/css/main.ff1a2c3c.css",
+    "main.js": "/Upload_apifront/static/js/main.3914479f.js",
+    "static/media/Profile-arrow.svg": "/Upload_apifront/static/media/Profile-arrow.1a55a1f3e8ea37ab8330b0df30bce3e6.svg",
+    "static/media/ProfileArea.svg": "/Upload_apifront/static/media/ProfileArea.e4268596167868a0e75e2248d691ee2f.svg",
+    "index.html": "/Upload_apifront/index.html",
+    "main.ff1a2c3c.css.map": "/Upload_apifront/static/css/main.ff1a2c3c.css.map",
+    "main.3914479f.js.map": "/Upload_apifront/static/js/main.3914479f.js.map"
   },
   "entrypoints": [
     "static/css/main.ff1a2c3c.css",
-    "static/js/main.6528cfa3.js"
+    "static/js/main.3914479f.js"
   ]
 }
